@@ -1,0 +1,1 @@
+Notes is a very simple way to record pieces of information to use later. Remember, **THIS IS NOT A TEXT EDITOR!**.
